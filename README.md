@@ -13,6 +13,13 @@
 
 As a committed Technical Writer, I am constantly refining a variety of skills to ensure my documentation is clear and precise. Here are some key areas I'm focusing on:
 
+### AI-Enhanced Content Craft
+- **Conversational Design:** Designing chatbot flows and interactive writing assistants for websites and platforms.
+- **Tool Prototyping:** Creating content cards and planning tools for dynamic storytelling and guided input.
+- **Smart Summarization:** Transforming long-form articles into voice-ready and mobile-friendly content.
+- **Search Optimization:** Structuring content for semantic search; experimenting with metadata and prompt engineering.
+- **User Experience Engineering:** Reimagining static blog formats as interactive journeys; prototyping AI-driven layouts for deeper engagement.
+
 ### Types of Documentation
 - **API Documentation:** Writing clear and comprehensive API documentation to help developers understand and use APIs effectively.
 - **Product Documentation:** Creating detailed product manuals and guides to assist users in understanding and utilizing products.
