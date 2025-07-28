@@ -69,8 +69,8 @@ By focusing on these areas, I aim to produce high-quality technical documentatio
 ## Services
 Taking on New Clients!
 
-I specialize in helping companies with their documentation and communications strategy and implementation. I can assist you if you need clear, concise documentation or a comprehensive communications plan. 
-Contact me to learn about my reasonable rates and engage my services.
+I help companies shape their documentation and communication strategies — now with a growing focus on AI-enhanced content. Whether you need clear, concise documentation, conversational UX, or a scalable communications plan, I bring clarity and innovation to the table.
+Let’s connect to discuss your needs and my reasonable rates.
 
 ## How to Contact me
 Open to new opportunities and networking! Contact me for writing requirements:
